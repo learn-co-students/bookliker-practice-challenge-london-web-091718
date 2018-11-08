@@ -14,7 +14,9 @@
           "id": 8,
           "username": "goodwin"
         }
-      ]
+      ],
+      "className": "book-show-page",
+      "username": "pouros"
     },
     {
       "id": 2,
@@ -34,7 +36,8 @@
           "id": 6,
           "username": "steuber"
         }
-      ]
+      ],
+      "className": "book-show-page"
     },
     {
       "id": 3,
@@ -49,8 +52,13 @@
         {
           "id": 9,
           "username": "nikolaus"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
-      ]
+      ],
+      "className": "book-show-page"
     },
     {
       "id": 4,
@@ -66,7 +74,8 @@
           "id": 8,
           "username": "goodwin"
         }
-      ]
+      ],
+      "className": "book-show-page"
     },
     {
       "id": 5,
@@ -102,7 +111,8 @@
           "id": 4,
           "username": "batz"
         }
-      ]
+      ],
+      "className": "book-show-page"
     },
     {
       "id": 7,
@@ -117,8 +127,13 @@
         {
           "id": 5,
           "username": "king"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
-      ]
+      ],
+      "className": "book-show-page"
     },
     {
       "id": 8,
@@ -138,7 +153,8 @@
           "id": 2,
           "username": "auer"
         }
-      ]
+      ],
+      "className": "book-show-page"
     },
     {
       "id": 9,
@@ -157,8 +173,13 @@
         {
           "id": 5,
           "username": "king"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
-      ]
+      ],
+      "className": "book-show-page"
     },
     {
       "id": 10,
@@ -174,7 +195,8 @@
           "id": 10,
           "username": "macejkovic"
         }
-      ]
+      ],
+      "className": "book-show-page"
     }
   ],
   "users": [
@@ -200,7 +222,25 @@
     },
     {
       "id": 6,
-      "username": "steuber"
+      "username": "steuber",
+      "title": "Whispers",
+      "description": "When her father decides to run for governor of Oregon, Claire St. John is forced to confront long-buried secrets as she copes with unexpected feelings for Kane Moran, a handsome journalist with a grudge, who threatens to tell all.",
+      "img_url": "http://books.google.com/books/content?id=TmocdXScYFEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "users": [
+        {
+          "id": 7,
+          "username": "steuber"
+        },
+        {
+          "id": 4,
+          "username": "batz"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        }
+      ],
+      "className": "book-show-page"
     },
     {
       "id": 7,
@@ -216,7 +256,25 @@
     },
     {
       "id": 10,
-      "username": "macejkovic"
+      "username": "macejkovic",
+      "title": "The Lottery Winner",
+      "description": "Five short tales, including 'Plumbing for Willy' and 'Death on the Cape,' follow the adventures of a former cleaning woman and her occasionally befuddled mate",
+      "img_url": "http://books.google.com/books/content?id=dK5Gx6vbV2YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "users": [
+        {
+          "id": 8,
+          "username": "goodwin"
+        },
+        {
+          "id": 10,
+          "username": "macejkovic"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        }
+      ],
+      "className": "book-show-page"
     }
   ]
 }

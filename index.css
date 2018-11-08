@@ -1,4 +1,16 @@
 body {
 	display: grid;
-	grid-template-columns: 2fr 8fr
+	grid-template-columns: 3fr 7fr
+}
+
+ul li {
+	margin: 10px;
+}
+
+#show-panel p span {
+	margin: 10px 20px;
+	font-weight: bold;
+}
+#show-panel p span:first-of-type {
+	margin-left: 0;
 }

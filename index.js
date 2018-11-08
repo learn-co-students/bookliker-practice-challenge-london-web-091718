@@ -48,9 +48,15 @@ const bookListner = (list, book) => {
 
 const readMe = (innerDiv, book) => {
     innerDiv.addEventListener('click', () => {
-        book.users.push(user)
-        // changing users array
-        likeBook(book)
-        showBookDetails(book)
+        if (showPanel.innerHTML.includes(user.username)) {
+            alert("You have already read this.")
+        } else {
+            book.users.push(user)
+            // changing users array
+            likeBook(book)
+            showBookDetails(book)
+        }
+        
+       
     })
 }
